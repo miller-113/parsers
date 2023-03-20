@@ -1,0 +1,6 @@
+*.zip
+ebay_zoxs
+parser_gorilla
+.idea
+geckodriver.log
+ua
